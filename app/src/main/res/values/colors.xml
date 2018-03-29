@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="NRed">#FF8080</color>
+    <color name="NGreen">#80FF80</color>
+    <color name="NBlue">#8080FF</color>
+    <color name="NYellow">#FFFF00</color>
+    <color name="NCyan">#00FFFF</color>
+    <color name="NMagenta">#FF00FF</color>
+    <color name="BBlack">#2B2B2A</color>
+    <color name="BGray">#555555</color>
+</resources>
